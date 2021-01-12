@@ -1,0 +1,22 @@
+{
+  "name": "weatherdata_self",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjoymhnt/Weather_Data_Fetcher.git"
+  },
+  "author": "imjoymhnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjoymhnt/Weather_Data_Fetcher/issues"
+  },
+  "homepage": "https://github.com/imjoymhnt/Weather_Data_Fetcher#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
